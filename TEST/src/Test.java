@@ -8,6 +8,7 @@ public class Test {
 		System.out.println("hi, there");
 		
 		System.out.println("this is A brench to master");
+		System.out.println("master change");
 
 	}
 
