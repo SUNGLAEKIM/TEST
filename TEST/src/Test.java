@@ -7,7 +7,8 @@ public class Test {
 		System.out.println("hi, there");
 		System.out.println("hi, there");
 		
-		System.out.println("i want create a new branch.");
+		System.out.println("this is A brench to master");
+
 	}
 
 }
