@@ -6,6 +6,8 @@ public class Test {
 		System.out.println("hi");
 		System.out.println("hi, there");
 		System.out.println("hi, there");
+		
+		System.out.println("i want create a new branch.");
 	}
 
 }
