@@ -8,6 +8,8 @@ public class LogLine {
 	
 	private int myTime = 32400000;
 	
+	private int printCOunt=0;
+	
 //	private String timeStamp = new String();
 	private String conveyor = new String();
 	private String barcode = new String();
@@ -21,14 +23,15 @@ public class LogLine {
 	private int lineSize;
 	private int convNum;
 	
+	
 	private void init() {		
 //		timeStamp = "2017-03-12 ";
 //		convSize = r.getConvSize();
 //		barSize = r.getBarvSize();
 		traySize = r.getTraySize();
 		
-		lineSize = 100; // 로그 줄 정하기 :100줄
-		convNum = 0; // 컨베이어 정하기
+		lineSize = 10000; // 로그 줄 정하기 :100줄
+		convNum = 1; // 컨베이어 정하기
 		barRange = 10; // 한 컨베이어가 사용하는 바코드 개수
 	}
 	
@@ -47,6 +50,7 @@ public class LogLine {
 	}
 	
 	private void PrintLine() {
+		printCOunt++;
 		String myLog = new String();
 
 		conveyor = r.getConveyor(convNum); 
