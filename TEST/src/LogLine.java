@@ -4,34 +4,30 @@ public class LogLine {
 	
 	ArrayList<String> logList = new ArrayList<String>();
 	
-	private RandCode r = new RandCode();;
+	private RandCode r;
 	
 	private int myTime = 32400000;
 	
-	private int printCOunt=0;
 	
-//	private String timeStamp = new String();
 	private String conveyor = new String();
 	private String barcode = new String();
 	private String trayId = new String();
 	
-//	private int convSize;
-//	private int barSize;
 	private int traySize;
 	
 	private int barRange;
-	private int lineSize;
+//	private int lineSize;
 	private int convNum;
 	
 	
-	private void init() {		
-//		timeStamp = "2017-03-12 ";
-//		convSize = r.getConvSize();
-//		barSize = r.getBarvSize();
+	public LogLine(int n) {		
+		
+		r = new RandCode(n);
+		
 		traySize = r.getTraySize();
 		
-		lineSize = 10000; // 로그 줄 정하기 :100줄
-		convNum = 1; // 컨베이어 정하기
+//		lineSize = 10000; // 로그 줄 정하기 :100줄
+//		convNum = 1; // 컨베이어 정하기
 		barRange = 10; // 한 컨베이어가 사용하는 바코드 개수
 	}
 	
@@ -49,27 +45,26 @@ public class LogLine {
 		return result;
 	}
 	
-	 void PrintLine() {
-		printCOunt++;
+	 public String PrintLine(int num) {
 		String myLog = new String();
 
-		conveyor = r.getConveyor(convNum); 
+		conveyor = r.getConveyor(num); 
 
-		for (int i = 0; i < lineSize; i++) {
-			int barRand = (int)(Math.random()*(barRange+10*convNum));
-			int trayRand = (int)(Math.random()*traySize);
-			barcode = r.getBarcode(barRand);
-			trayId = r.getTrayId(trayRand);
-			String timeStamp = this.TimeString();
-			
-			myLog = timeStamp + " [EQP_OPERATION      ][Conveyor" + conveyor + "        ][00" + barcode
-					+ "][     Conveyor1E/__I_D" + barcode.substring(3)
-					+ "_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : " + trayId;
+		int barRand = (int) (Math.random() * (barRange + 10 * convNum));
+		int trayRand = (int) (Math.random() * traySize);
+		barcode = r.getBarcode(barRand);
+		trayId = r.getTrayId(trayRand);
+		String timeStamp = this.TimeString();
 
-			System.out.println(myLog);
-			
-			myTime += barRand*trayRand;
-		}
+		myLog = timeStamp + " [EQP_OPERATION      ][Conveyor" + conveyor + "        ][00" + barcode + "][     Conveyor"
+				+ conveyor + "/__I_D" + barcode.substring(3)
+				+ "_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : " + trayId;
+
+//		System.out.println(myLog);
+
+		myTime += barRand * trayRand;
+		
+		return myLog;
 	}
 	
 	private String cal(int v) {

@@ -6,11 +6,21 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class FileWrite {
-
-	File dir = new File("C:\\Users\\speed\\Desktop\\logFiles");
+	
+	File dir ;
 	File file;
-	private int fileListNumber=10;
-	private int fileLine=100;
+	private int fileListNumber;
+	private int fileLine;
+	private String defaultDir;
+	
+	public FileWrite(){
+		defaultDir=System.getProperty("user.dir");
+		defaultDir+="\\logFiles";
+		dir=new File(defaultDir);
+			
+		fileListNumber=10;
+		fileLine=100;
+	}
 	
 	public void write(){
 		BufferedWriter bw = null;
@@ -19,6 +29,7 @@ public class FileWrite {
 		
 
 		try {
+			System.out.println("****Deafulat directory :"+defaultDir);
 
 			for(int i=0;i<fileListNumber;i++){
 
