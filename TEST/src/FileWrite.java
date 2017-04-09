@@ -16,6 +16,7 @@ public class FileWrite {
 		BufferedWriter bw = null;
 		FileWriter fw = null;
 		String content="";
+		
 
 		try {
 

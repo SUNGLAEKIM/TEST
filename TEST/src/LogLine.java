@@ -49,7 +49,7 @@ public class LogLine {
 		return result;
 	}
 	
-	private void PrintLine() {
+	 void PrintLine() {
 		printCOunt++;
 		String myLog = new String();
 
@@ -82,7 +82,7 @@ public class LogLine {
 		
 		return result;
 	}
-	
+	/*
 	public static void main(String[] args) {
 		
 		LogLine l = new LogLine();
@@ -91,6 +91,6 @@ public class LogLine {
 		l.TimeString();
 		l.PrintLine();
         
-	}	
+	}	*/
 
 }
