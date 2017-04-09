@@ -6,24 +6,35 @@ public class RandCode {
 	ArrayList<String> barcode = new ArrayList<String>();
 	ArrayList<String> trayId = new ArrayList<String>();
 	
-	public RandCode() {
+	public RandCode(int n) {
 		
-		this.setConveyor();
+		this.setConveyor(n);
 		this.setBarcode();
 		this.setTrayId();
 		
 	}
 	
-	private void setConveyor() {
+	private void setConveyor(int n) {
+		
 		String code = new String();
 		
-		for (int i = 1; i < 3; i++) {
+		int num = n;
+		int range = num/26+1;
+		
+		for (int i = 1; i < range+1; i++) {
 			char c = 65;
-			for (int j = 0; j < 5; j++) {
+			for (int j = 0; j < 26; j++) {
+				if(num==0)
+					break;
+				
 				code = Integer.toString(i) + c;
 				conveyor.add(code);
 				c += 1;
+				num -= 1;
+				
 			}
+			if(num==0)
+				break;
 		}
 	}
 	
