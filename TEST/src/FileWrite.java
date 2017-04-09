@@ -6,7 +6,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 
 public class FileWrite {
-
+ 
 	File dir = new File("C:\\Users\\speed\\Desktop\\logFiles");
 	File file;
 	private int fileListNumber=10;
