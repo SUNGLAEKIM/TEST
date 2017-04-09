@@ -1,100 +1,100 @@
-This is LogLine 에서 받을 String +0 line
-This is LogLine 에서 받을 String +1 line
-This is LogLine 에서 받을 String +2 line
-This is LogLine 에서 받을 String +3 line
-This is LogLine 에서 받을 String +4 line
-This is LogLine 에서 받을 String +5 line
-This is LogLine 에서 받을 String +6 line
-This is LogLine 에서 받을 String +7 line
-This is LogLine 에서 받을 String +8 line
-This is LogLine 에서 받을 String +9 line
-This is LogLine 에서 받을 String +10 line
-This is LogLine 에서 받을 String +11 line
-This is LogLine 에서 받을 String +12 line
-This is LogLine 에서 받을 String +13 line
-This is LogLine 에서 받을 String +14 line
-This is LogLine 에서 받을 String +15 line
-This is LogLine 에서 받을 String +16 line
-This is LogLine 에서 받을 String +17 line
-This is LogLine 에서 받을 String +18 line
-This is LogLine 에서 받을 String +19 line
-This is LogLine 에서 받을 String +20 line
-This is LogLine 에서 받을 String +21 line
-This is LogLine 에서 받을 String +22 line
-This is LogLine 에서 받을 String +23 line
-This is LogLine 에서 받을 String +24 line
-This is LogLine 에서 받을 String +25 line
-This is LogLine 에서 받을 String +26 line
-This is LogLine 에서 받을 String +27 line
-This is LogLine 에서 받을 String +28 line
-This is LogLine 에서 받을 String +29 line
-This is LogLine 에서 받을 String +30 line
-This is LogLine 에서 받을 String +31 line
-This is LogLine 에서 받을 String +32 line
-This is LogLine 에서 받을 String +33 line
-This is LogLine 에서 받을 String +34 line
-This is LogLine 에서 받을 String +35 line
-This is LogLine 에서 받을 String +36 line
-This is LogLine 에서 받을 String +37 line
-This is LogLine 에서 받을 String +38 line
-This is LogLine 에서 받을 String +39 line
-This is LogLine 에서 받을 String +40 line
-This is LogLine 에서 받을 String +41 line
-This is LogLine 에서 받을 String +42 line
-This is LogLine 에서 받을 String +43 line
-This is LogLine 에서 받을 String +44 line
-This is LogLine 에서 받을 String +45 line
-This is LogLine 에서 받을 String +46 line
-This is LogLine 에서 받을 String +47 line
-This is LogLine 에서 받을 String +48 line
-This is LogLine 에서 받을 String +49 line
-This is LogLine 에서 받을 String +50 line
-This is LogLine 에서 받을 String +51 line
-This is LogLine 에서 받을 String +52 line
-This is LogLine 에서 받을 String +53 line
-This is LogLine 에서 받을 String +54 line
-This is LogLine 에서 받을 String +55 line
-This is LogLine 에서 받을 String +56 line
-This is LogLine 에서 받을 String +57 line
-This is LogLine 에서 받을 String +58 line
-This is LogLine 에서 받을 String +59 line
-This is LogLine 에서 받을 String +60 line
-This is LogLine 에서 받을 String +61 line
-This is LogLine 에서 받을 String +62 line
-This is LogLine 에서 받을 String +63 line
-This is LogLine 에서 받을 String +64 line
-This is LogLine 에서 받을 String +65 line
-This is LogLine 에서 받을 String +66 line
-This is LogLine 에서 받을 String +67 line
-This is LogLine 에서 받을 String +68 line
-This is LogLine 에서 받을 String +69 line
-This is LogLine 에서 받을 String +70 line
-This is LogLine 에서 받을 String +71 line
-This is LogLine 에서 받을 String +72 line
-This is LogLine 에서 받을 String +73 line
-This is LogLine 에서 받을 String +74 line
-This is LogLine 에서 받을 String +75 line
-This is LogLine 에서 받을 String +76 line
-This is LogLine 에서 받을 String +77 line
-This is LogLine 에서 받을 String +78 line
-This is LogLine 에서 받을 String +79 line
-This is LogLine 에서 받을 String +80 line
-This is LogLine 에서 받을 String +81 line
-This is LogLine 에서 받을 String +82 line
-This is LogLine 에서 받을 String +83 line
-This is LogLine 에서 받을 String +84 line
-This is LogLine 에서 받을 String +85 line
-This is LogLine 에서 받을 String +86 line
-This is LogLine 에서 받을 String +87 line
-This is LogLine 에서 받을 String +88 line
-This is LogLine 에서 받을 String +89 line
-This is LogLine 에서 받을 String +90 line
-This is LogLine 에서 받을 String +91 line
-This is LogLine 에서 받을 String +92 line
-This is LogLine 에서 받을 String +93 line
-This is LogLine 에서 받을 String +94 line
-This is LogLine 에서 받을 String +95 line
-This is LogLine 에서 받을 String +96 line
-This is LogLine 에서 받을 String +97 line
-This is LogLine 에서 받을 String +98 line
-This is LogLine 에서 받을 String +99 line
+2017-03-12 09:38:03.283 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JKWT627229 JKWT339203
+2017-03-12 09:38:58.338 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SMPL965181 SMPL775229
+2017-03-12 09:39:10.410 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : QFOV612485 QFOV498677
+2017-03-12 09:39:02.522 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JQQR730136 JQQR878455
+2017-03-12 09:39:26.606 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : BTOM730708 BTOM758547
+2017-03-12 09:39:38.618 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : DOLC428966 DOLC492041
+2017-03-12 09:39:38.618 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : GPNK502294 GPNK253827
+2017-03-12 09:39:46.686 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JHIN819192 JHIN861218
+2017-03-12 09:39:46.686 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RTWQ595724 RTWQ740890
+2017-03-12 09:39:31.791 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : BTOM730708 BTOM758547
+2017-03-12 09:39:39.799 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : KKPF861518 KKPF929474
+2017-03-12 09:39:29.849 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : AQBC382236 AQBC373025
+2017-03-12 09:40:47.047 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RYKR748696 RYKR568582
+2017-03-12 09:40:05.065 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YJYR663528 YJYR760712
+2017-03-12 09:40:44.104 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : EKQT704069 EKQT757005
+2017-03-12 09:40:08.128 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LOFW369007 LOFW439776
+2017-03-12 09:40:03.303 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SYGN719782 SYGN867994
+2017-03-12 09:40:11.431 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:40:16.436 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JKWT627229 JKWT339203
+2017-03-12 09:40:27.447 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : TNXW100999 TNXW833534
+2017-03-12 09:40:54.534 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JKWT627229 JKWT339203
+2017-03-12 09:41:33.633 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SMPL965181 SMPL775229
+2017-03-12 09:41:09.849 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UQJI948620 UQJI939242
+2017-03-12 09:41:33.113 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RTWQ595724 RTWQ740890
+2017-03-12 09:41:48.128 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YGYN116354 YGYN965936
+2017-03-12 09:42:39.239 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UKHF423656 UKHF611841
+2017-03-12 09:42:21.401 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : IVVS860865 IVVS631296
+2017-03-12 09:42:21.401 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:42:21.401 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : FWSA995579 FWSA781278
+2017-03-12 09:42:59.439 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UNGH531898 UNGH980061
+2017-03-12 09:42:09.629 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MGDH124468 MGDH883226
+2017-03-12 09:42:57.677 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LYLH715789 LYLH918470
+2017-03-12 09:42:13.693 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YJYR663528 YJYR760712
+2017-03-12 09:42:52.732 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YYBW785059 YYBW305708
+2017-03-12 09:43:52.912 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MUBJ945308 MUBJ241720
+2017-03-12 09:43:10.930 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RFBK124086 RFBK398969
+2017-03-12 09:43:32.252 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : IVVS860865 IVVS631296
+2017-03-12 09:43:32.312 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MGDH124468 MGDH883226
+2017-03-12 09:44:20.600 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SYGN719782 SYGN867994
+2017-03-12 09:44:12.712 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MGDH124468 MGDH883226
+2017-03-12 09:45:24.144 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : CGHY917400 CGHY852274
+2017-03-12 09:45:28.268 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : AQBC382236 AQBC373025
+2017-03-12 09:45:56.356 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LOFW369007 LOFW439776
+2017-03-12 09:45:26.566 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LYLH715789 LYLH918470
+2017-03-12 09:46:22.622 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : XWQY572963 XWQY510194
+2017-03-12 09:46:14.794 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : FWSA995579 FWSA781278
+2017-03-12 09:46:30.870 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : NGOM533049 NGOM209288
+2017-03-12 09:46:57.017 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : CGHY917400 CGHY852274
+2017-03-12 09:47:36.296 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YGYN116354 YGYN965936
+2017-03-12 09:47:55.555 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LYLH715789 LYLH918470
+2017-03-12 09:47:03.563 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : GPNK502294 GPNK253827
+2017-03-12 09:47:45.665 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : BTOM730708 BTOM758547
+2017-03-12 09:47:47.667 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:47:02.682 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : TUWL999841 TUWL126832
+2017-03-12 09:48:20.820 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YGYN116354 YGYN965936
+2017-03-12 09:48:20.820 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : ACAE971822 ACAE126860
+2017-03-12 09:48:38.838 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YJYR663528 YJYR760712
+2017-03-12 09:48:17.877 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YFCW480793 YFCW709756
+2017-03-12 09:48:34.894 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : EYUC652825 EYUC321502
+2017-03-12 09:48:49.029 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JVXT752142 JVXT523924
+2017-03-12 09:48:45.085 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:48:30.130 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : TUWL999841 TUWL126832
+2017-03-12 09:48:57.337 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SMPL965181 SMPL775229
+2017-03-12 09:48:45.385 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : LYLH715789 LYLH918470
+2017-03-12 09:49:09.409 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UFKM772187 UFKM368543
+2017-03-12 09:49:41.441 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JQQR730136 JQQR878455
+2017-03-12 09:49:11.651 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YGYN116354 YGYN965936
+2017-03-12 09:49:07.947 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RTWQ595724 RTWQ740890
+2017-03-12 09:49:07.947 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UNGH531898 UNGH980061
+2017-03-12 09:49:45.985 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JHIN819192 JHIN861218
+2017-03-12 09:50:51.231 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : IRSK730001 IRSK569443
+2017-03-12 09:50:31.451 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YGYN116354 YGYN965936
+2017-03-12 09:51:36.636 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MGDH124468 MGDH883226
+2017-03-12 09:51:48.828 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:51:48.828 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SMPL965181 SMPL775229
+2017-03-12 09:51:12.852 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : MGDH124468 MGDH883226
+2017-03-12 09:51:00.900 [EQP_OPERATION      ][Conveyor1C        ][001A17371][     Conveyor1C/__I_D7371_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : QSUB674425 QSUB395998
+2017-03-12 09:51:00.900 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JKWT627229 JKWT339203
+2017-03-12 09:51:55.955 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UKHF423656 UKHF611841
+2017-03-12 09:51:31.171 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : ACAE971822 ACAE126860
+2017-03-12 09:52:25.225 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : QSUB674425 QSUB395998
+2017-03-12 09:52:12.272 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JHIN819192 JHIN861218
+2017-03-12 09:52:18.518 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : DOLC428966 DOLC492041
+2017-03-12 09:52:18.518 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : JKWT627229 JKWT339203
+2017-03-12 09:52:24.584 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : QSUB674425 QSUB395998
+2017-03-12 09:53:27.007 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SYGN719782 SYGN867994
+2017-03-12 09:53:35.135 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:53:55.155 [EQP_OPERATION      ][Conveyor1C        ][001A23132][     Conveyor1C/__I_D3132_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : YKGV497385 YKGV436853
+2017-03-12 09:53:10.170 [EQP_OPERATION      ][Conveyor1C        ][001A63210][     Conveyor1C/__I_D3210_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : QFOV612485 QFOV498677
+2017-03-12 09:53:02.282 [EQP_OPERATION      ][Conveyor1C        ][001A54049][     Conveyor1C/__I_D4049_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RYKR748696 RYKR568582
+2017-03-12 09:53:29.309 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : IRSK730001 IRSK569443
+2017-03-12 09:54:21.661 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : SOQC736492 SOQC123058
+2017-03-12 09:54:45.685 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : WLYI521329 WLYI501775
+2017-03-12 09:54:05.885 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RYKR748696 RYKR568582
+2017-03-12 09:54:08.888 [EQP_OPERATION      ][Conveyor1C        ][001A21629][     Conveyor1C/__I_D1629_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : UNGH531898 UNGH980061
+2017-03-12 09:54:24.964 [EQP_OPERATION      ][Conveyor1C        ][001A64786][     Conveyor1C/__I_D4786_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : CGHY917400 CGHY852274
+2017-03-12 09:54:55.995 [EQP_OPERATION      ][Conveyor1C        ][001A29895][     Conveyor1C/__I_D9895_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : GLKQ868522 GLKQ828854
+2017-03-12 09:55:00.000 [EQP_OPERATION      ][Conveyor1C        ][001A21231][     Conveyor1C/__I_D1231_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : WLYI521329 WLYI501775
+2017-03-12 09:55:20.320 [EQP_OPERATION      ][Conveyor1C        ][001A52855][     Conveyor1C/__I_D2855_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : RYKR748696 RYKR568582
+2017-03-12 09:55:41.341 [EQP_OPERATION      ][Conveyor1C        ][001A81721][     Conveyor1C/__I_D1721_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : GPNK502294 GPNK253827

@@ -12,6 +12,7 @@ public class FileWrite {
 	private int fileListNumber;
 	private int fileLine;
 	private String defaultDir;
+	LogLine l ;
 	
 	public FileWrite(){
 		defaultDir=System.getProperty("user.dir");
@@ -20,6 +21,11 @@ public class FileWrite {
 			
 		fileListNumber=10;
 		fileLine=100;
+		l= new LogLine(fileListNumber);
+		
+		 
+		l.TimeString();
+		
 	}
 	
 	public void write(){
@@ -42,7 +48,8 @@ public class FileWrite {
 				for(int j=0;j<fileLine;j++){
 
 					// LogLine 에서 받을 String
-					content = "This is LogLine 에서 받을 String +"+j+" line\r\n";
+					//content = "This is LogLine 에서 받을 String +"+j+" line\r\n";
+					content=l.PrintLine(i);
 					bw.write(content);
 					
 				}

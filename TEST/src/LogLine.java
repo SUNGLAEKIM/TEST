@@ -31,7 +31,7 @@ public class LogLine {
 		barRange = 10; // 한 컨베이어가 사용하는 바코드 개수
 	}
 	
-	private String TimeString() {
+	public String TimeString() {
 		String result = new String();
 		
 		int hour = myTime/3600000;
@@ -58,7 +58,7 @@ public class LogLine {
 
 		myLog = timeStamp + " [EQP_OPERATION      ][Conveyor" + conveyor + "        ][00" + barcode + "][     Conveyor"
 				+ conveyor + "/__I_D" + barcode.substring(3)
-				+ "_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : " + trayId;
+				+ "_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : " + trayId+"\r\n";
 
 //		System.out.println(myLog);
 
@@ -80,11 +80,7 @@ public class LogLine {
 	/*
 	public static void main(String[] args) {
 		
-		LogLine l = new LogLine();
 		
-		l.init(); 
-		l.TimeString();
-		l.PrintLine();
         
 	}	*/
 
