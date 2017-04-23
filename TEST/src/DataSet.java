@@ -15,7 +15,7 @@ String fileName;
 	int l = 10;
 	String logString = "2017-03-12 09:3869:03.883 [EQP_OPERATION      ][Conveyor1B        ][001P11310][     Conveyor1E/__I_D1310_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : EXOO421528 EXOO247711";
 */
-	
+	s
 	
 	public DataSet(String s) { //constructor
 		
@@ -28,7 +28,7 @@ String fileName;
 	public void makeHash(int Lnum, String s){
 				
 		StringTokenizer st = new StringTokenizer(s, "][");
-		for (int i = 0; i < Lnum; i++) { // 로그의 줄 수 만큼 루프해서 각 줄 내용 파싱, i+1 = 현재 로그의 줄 번호
+//		for (int i = 0; i < Lnum; i++) { // 로그의 줄 수 만큼 루프해서 각 줄 내용 파싱, i+1 = 현재 로그의 줄 번호
 			while (st.hasMoreTokens()) {
 				String tokenList[] = new String[6];
 
@@ -53,13 +53,18 @@ String fileName;
 				tokenList[5] = str.substring(end + 11);
 
 				for (int j = 0; j < 6; j++) {
-					dataMap.put(String.valueOf(i + 1) + String.valueOf(j + 1), tokenList[j]); // i+1번째 줄, j+1번째 토큰
-					System.out.println(String.valueOf(i + 1) + String.valueOf(j + 1) + ", " + tokenList[j]);
+					dataMap.put(String.valueOf(Lnum + 1) + String.valueOf(j + 1), tokenList[j]); // Lnum+1번째 줄, j+1번째 토큰
+					System.out.println(String.valueOf(Lnum + 1) + String.valueOf(j + 1) + ", " + tokenList[j]);
 				}
 
 			}
-		}
+//		}
 		
+	}
+	
+	public String getFileName() {
+		
+		return this.fileName;
 	}
 
 	public HashMap<String, String> getHashMap() {
