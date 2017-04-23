@@ -12,14 +12,18 @@ public class main {
 		System.out.println(System.getProperty("user.home"));
 		
 		FileRead fr=new FileRead();
-		fr.readFiles();
+		//fr.readFiles();
 		
 		
 		
 		//file 정보를 객체화...(성래형)
 		
+		ArrayList<DataSet> data;
+		data=fr.readFiles();
 		
-		
+		for(int i=0;i<data.size();i++){
+			System.out.println(data.get(i).fileName);
+		}
 		
 		//
 		
