@@ -15,7 +15,7 @@ String fileName;
 	int l = 10;
 	String logString = "2017-03-12 09:3869:03.883 [EQP_OPERATION      ][Conveyor1B        ][001P11310][     Conveyor1E/__I_D1310_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : EXOO421528 EXOO247711";
 */
-	s
+	
 	
 	public DataSet(String s) { //constructor
 		
