@@ -39,16 +39,12 @@ public class FileWrite {
 
 			for(int i=0;i<fileListNumber;i++){
 
-				//fw = new FileWriter(FILENAME+i+".txt");
-				//((Object) fw).getParentFile().mkdirs();
 			    dir.mkdir();
 				file=new File(dir,i+".txt");
 				fw = new FileWriter(file);
 				bw = new BufferedWriter(fw);
 				for(int j=0;j<fileLine;j++){
 
-					// LogLine 에서 받을 String
-					//content = "This is LogLine 에서 받을 String +"+j+" line\r\n";
 					content=l.PrintLine(i);
 					bw.write(content);
 					

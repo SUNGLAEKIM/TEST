@@ -16,7 +16,6 @@ public class LogLine {
 	private int traySize;
 	
 	private int barRange;
-//	private int lineSize;
 	private int convNum;
 	
 	
@@ -26,8 +25,6 @@ public class LogLine {
 		
 		traySize = r.getTraySize();
 		
-//		lineSize = 10000; // 로그 줄 정하기 :100줄
-//		convNum = 1; // 컨베이어 정하기
 		barRange = 10; // 한 컨베이어가 사용하는 바코드 개수
 	}
 	
@@ -60,7 +57,6 @@ public class LogLine {
 				+ conveyor + "/__I_D" + barcode.substring(3)
 				+ "_D_ReqReadBCR_Observa][17   ] Retval : 입고성공 ,단정보 : 2 ,TrayID : " + trayId+"\r\n";
 
-//		System.out.println(myLog);
 
 		myTime += barRand * trayRand;
 		
@@ -77,11 +73,5 @@ public class LogLine {
 		
 		return result;
 	}
-	/*
-	public static void main(String[] args) {
-		
-		
-        
-	}	*/
 
 }
