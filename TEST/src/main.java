@@ -64,16 +64,16 @@ public class main {
 
 		}
 		
-		while(fCheck.equals("N")) {
+		while (fCheck.equals("N")) {
 			System.out.println("Enter your keyword");
 			System.out.print(": ");
 			fValue = sc.nextLine();
-			
+
 			System.out.println("Your keyword: " + fValue + " (Y/N)");
-			
+
 			fCheck = sc.nextLine();
-			
-			}
+
+		}
 		
 		//key, value 받는 로직
 		ArrayList<String> result = where.result(fKey, fValue);
