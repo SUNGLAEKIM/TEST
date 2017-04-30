@@ -7,7 +7,9 @@ public class main {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+
 		FileWrite fw = new FileWrite();
+
 		//fw.write();	
 		
 		//System.out.println(System.getProperty("user.home"));
@@ -32,7 +34,9 @@ public class main {
 	       }
 		
 		
+
 		FindWhere where = new FindWhere(data);
+
 		where.result("6", "VSTH832719");
 		Scanner sc = new Scanner(System.in);
 		int select = 0;
