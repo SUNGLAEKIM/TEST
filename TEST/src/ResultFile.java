@@ -8,7 +8,7 @@ public class ResultFile {
 	private File dir;
 	private File file;
 	private String defaultDir;
-	private ArrayList<String> data;
+	private ArrayList<String> data = new ArrayList<String>();
 	
 	public ResultFile(ArrayList<String> d) {
 		defaultDir = System.getProperty("user.dir");
@@ -35,7 +35,7 @@ public class ResultFile {
 			bw = new BufferedWriter(fw);
 			
 			for(int i = 0; i < dataSize; i++) {
-				bw.write(data.get(i));
+				bw.write(data.get(i)+"\r\n");
 			}
 			//for result DataSet의 줄 수만틈
 			//resultLine = DataSet 읽어오는 함수.라인 읽어오는 함수
