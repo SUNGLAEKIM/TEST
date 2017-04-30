@@ -7,33 +7,33 @@ public class main {
 	
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		FileWrite fw=new FileWrite();
-		fw.write();	
+		FileWrite fw = new FileWrite();
+		//fw.write();	
 		
-		System.out.println(System.getProperty("user.home"));
+		//System.out.println(System.getProperty("user.home"));
 		
 		FileRead fr=new FileRead();
 		
 		ArrayList<DataSet> data;
-		data=fr.readFiles();
+		data = fr.readFiles();
 		
 		
 		//어레이 리스트에 잘 들어갔는지 확이하는 로직
 		for(int k = 0; k < data.size(); k++) {
 	          System.out.println("k : " + k);
 	          for(int l = 0; l < data.get(k).dataMap.size()/6; l++) {
-	             System.out.print(l+1 + ": ");
+	            // System.out.print(l+1 + ": ");
 	             for(int m = 0; m < 6; m++) {
 	                String key = String.valueOf(l+1)+String.valueOf(m+1);
-	                System.out.print(data.get(k).dataMap.get(key) + " / ");
+	                //System.out.print(data.get(k).dataMap.get(key) + " / ");
 	             }
-	             System.out.println();
+	            // System.out.println();
 	          }   
 	       }
 		
 		
-		FindWhere where =new FindWhere(data);
-		
+		FindWhere where = new FindWhere(data);
+		where.result("6", "VSTH832719");
 		Scanner sc = new Scanner(System.in);
 		int select = 0;
 		String fKey ="";
@@ -51,15 +51,15 @@ public class main {
 		switch (select) {
 
 		case 1:
-			fKey = "5";
+			fKey = "6";
 			break;
 
 		case 2:
-			fKey = "2";
+			fKey = "3";
 			break;
 
 		case 3:
-			fKey = "3";
+			fKey = "4";
 			break;
 
 		}
@@ -79,6 +79,10 @@ public class main {
 		ArrayList<String> result = where.result(fKey, fValue);
 		
 		// result 를 파일에 출력
+		ResultFile rf = new ResultFile(result);
+		rf.writeResult();
+		
+		
 	}
 
 }

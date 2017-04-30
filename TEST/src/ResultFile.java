@@ -8,12 +8,12 @@ public class ResultFile {
 	private File dir;
 	private File file;
 	private String defaultDir;
-	private ArrayList<DataSet> data;
+	private ArrayList<String> data;
 	
-	public ResultFile(ArrayList<DataSet> d) {
+	public ResultFile(ArrayList<String> d) {
 		defaultDir = System.getProperty("user.dir");
 		defaultDir += "\\resultFiles";
-		
+		 
 		dir = new File(defaultDir);
 		
 		data.addAll(d);
@@ -23,7 +23,8 @@ public class ResultFile {
 	public void writeResult() {
 		BufferedWriter bw = null;
 		FileWriter fw = null;
-		String resultLine="";
+		
+		int dataSize = data.size();
 		
 		try {
 			System.out.println("****Result directory :" + defaultDir);
@@ -33,6 +34,9 @@ public class ResultFile {
 			fw = new FileWriter(file);
 			bw = new BufferedWriter(fw);
 			
+			for(int i = 0; i < dataSize; i++) {
+				bw.write(data.get(i));
+			}
 			//for result DataSet의 줄 수만틈
 			//resultLine = DataSet 읽어오는 함수.라인 읽어오는 함수
 			//bw.write(resultLine);

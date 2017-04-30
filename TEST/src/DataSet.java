@@ -2,7 +2,7 @@ import java.util.HashMap;
 import java.util.StringTokenizer;
 
 public class DataSet {
-	private String fileName;
+	String fileName;
 	
 
 	HashMap<String, String> dataMap = new HashMap<String, String>();
