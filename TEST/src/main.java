@@ -75,47 +75,6 @@ public class main {
 
 		}
 		
-		Scanner sc = new Scanner(System.in);
-		int select = 0;
-		String fKey ="";
-		String fValue = "";
-		String fCheck = "N";
-		
-		while(select < 1 || select > 3) {
-		System.out.println("What do you want to find?");
-		System.out.println("1.Tray ID / 2.Sereal Number / 3.Barcode");
-		
-		select = sc.nextInt();
-		sc.nextLine();
-		}
-		
-		switch (select) {
-
-		case 1:
-			fKey = "5";
-			break;
-
-		case 2:
-			fKey = "2";
-			break;
-
-		case 3:
-			fKey = "3";
-			break;
-
-		}
-		
-		while (fCheck.equals("N")) {
-			System.out.println("Enter your keyword");
-			System.out.print(": ");
-			fValue = sc.nextLine();
-
-			System.out.println("Your keyword: " + fValue + " (Y/N)");
-
-			fCheck = sc.nextLine();
-
-		}
-		
 		//key, value 받는 로직
 		ArrayList<String> result = where.result(fKey, fValue);
 		
